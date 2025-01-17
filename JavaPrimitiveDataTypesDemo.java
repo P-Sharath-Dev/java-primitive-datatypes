@@ -31,5 +31,9 @@ public class JavaPrimitiveDataTypesDemo {
         System.out.println("Short value: " + shortVal);
         System.out.println("Int value: " + intVal);
         System.out.println("Long value: " + longVal);
+
+        //boolean
+        boolean isEligible = true;
+        System.out.println("boolean example (isEligible): " + isEligible);
     }
 }
